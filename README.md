@@ -1,7 +1,7 @@
 # 💫 About Me:
-Frontend Developer | Web Enthusiast
+Software Engineer | Frontend Developer
 
-Hey there! 👋 <br /> I'm Amirhossein, a passionate front-end developer with a strong focus on creating intuitive and visually appealing web experiences. <br /> With two years of experience in building responsive and interactive websites, I thrive on turning ideas into beautiful and functional user interfaces.
+Hey there! 👋 <br /> I'm Amirhossein, a passionate developer who creates intuitive and visually appealing web experiences. <br /> With two years of experience building responsive and interactive websites, I thrive on turning ideas into beautiful and functional user interfaces.
 
 
 ## 🌐 Socials:
